@@ -102,7 +102,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.21.211:4000/content/repositories/4000/</url>
+	      <url>http://172.31.21.211:4000/content/repositories/ecobank-snapshot2/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
